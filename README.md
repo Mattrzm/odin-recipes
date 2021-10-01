@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe project with a touch of css
+html recipe project with a touch of css
